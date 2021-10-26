@@ -1,10 +1,6 @@
 /*
 *By: Caesar R. Watts-Hall
-*Date: January 30, 2019
-*Class: JAVA II
-*Instructor: Dr.Primo
-*Assignment: Lab Assignment #1
-*Due Date: January 31, 2019 @ 11:55PM
+*Date: 10/25/2021
 */
 //START
 package lab1_array;
